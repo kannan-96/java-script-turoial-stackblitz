@@ -1,0 +1,22 @@
+body {
+  background: teal;
+}
+p {
+  color: blue;
+}
+#name {
+  opacity: 10;
+  text-align: center;
+  padding: 5;
+  margin-left: 50%;
+  margin-top: 25%;
+  border: 5px double tomato;
+  background-color: greenyellow;
+}
+.table {
+  padding: 10px;
+  color: whitesmoke;
+  border-spacing: 5px;
+  background-color: burlywood;
+}
+
